@@ -1,0 +1,3 @@
+#Breakout JS
+
+Just a breakout or brick breaker game. Written in Javascript using HTML Canvas. Have not implemented further features but would like to include a welcome screen, losing screen, and include different levels of difficulty. Size of game based on browser window size, playable in mobile bowsers using touchscreen. 
